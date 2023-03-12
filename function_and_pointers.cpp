@@ -16,4 +16,5 @@ int main() {
   int arr[SIZE]{0, 2, 3, 4, 5};
   bool result = Check_array(arr, &SIZE);
   cout << result;
+  return 0;
 }
