@@ -6,4 +6,5 @@ int main() {
   int *px = &a;
   std :: cout << px << std :: endl;
   std :: cout << *px + 1 << std :: endl;
+  return 0;
 }
