@@ -29,5 +29,5 @@ int main() {
   string a = "abcde";
   string b = "abc";
   cout << solution(a, b);
+  return 0;
 }
-  
