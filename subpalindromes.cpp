@@ -130,4 +130,5 @@ int main() {
         ans += l;
     }
     std::cout << ans;
+    return 0;
 }
