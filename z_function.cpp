@@ -36,4 +36,5 @@ int main() {
     for (int i = 0; i < (int)poses.size(); ++i) {
         std::cout << poses[i] << ' ';
     }
+    return 0;
 }
