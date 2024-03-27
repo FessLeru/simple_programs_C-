@@ -99,4 +99,5 @@ int main() {
     std::vector<int> a = {1, 2, 3}, b = {1, 2, 3};
     Hash<std::vector<int>, int> hash1(a, 0), hash2(b, 0); 
     std::cout << (hash1 == hash2) << std::endl; // true
+    return 0;
 }
