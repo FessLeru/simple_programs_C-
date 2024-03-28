@@ -23,4 +23,5 @@ int main() {
     for (int i = 0; i < (int)res.size(); ++i) {
         std::cout << res[i] << ' ';
     }
+    return 0;
 }
